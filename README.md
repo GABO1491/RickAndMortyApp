@@ -105,14 +105,14 @@ Tipografía digital y elementos flotantes con personalidad
 📸 Capturas de pantalla
 
 ### Vista principal
-![Vista principal](public/screenshots/vista-principal.png)
-![Vista principal](public/screenshots/vista-principal_1.png)
+![Vista principal](https://raw.githubusercontent.com/GABO1491/RickAndMortyApp/main/public/screenshots/vista-principal.png)
+![Vista principal](https://raw.githubusercontent.com/GABO1491/RickAndMortyApp/main/public/screenshots/vista-principal_1.png)
 
 ### Detalle del personaje
-![Detalle del personaje](public/screenshots/detalle-personaje.png)
+![Detalle del personaje](https://raw.githubusercontent.com/GABO1491/RickAndMortyApp/main/public/screenshots/detalle-personaje.png)
 
 ### Formulario de edición
-![Formulario editar](public/screenshots/editar-personaje.png)
+![Formulario editar](https://raw.githubusercontent.com/GABO1491/RickAndMortyApp/main/public/screenshots/editar-personaje.png)
 
 📫 Autor
 Desarrollado por Marcos Framework: Laravel 10+ Estilo visual: Personalizado con estética interdimensional API: rickandmortyapi.com
