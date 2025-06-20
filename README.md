@@ -112,7 +112,7 @@ Tipografía digital y elementos flotantes con personalidad
 ![Detalle del personaje](public/screenshots/detalle-personaje.png)
 
 ### Formulario de edición
-![Formulario editar](public/screenshots/editar-personaje.png)
+![Formulario editar](https://github.com/GABO1491/RickAndMortyApp/blob/main/public/screenshots/editar-personaje.png)
 
 📫 Autor
 Desarrollado por Marcos Framework: Laravel 10+ Estilo visual: Personalizado con estética interdimensional API: rickandmortyapi.com
