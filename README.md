@@ -105,7 +105,7 @@ Tipografía digital y elementos flotantes con personalidad
 📸 Capturas de pantalla
 
 ### Vista principal
-![Vista principal](https://raw.githubusercontent.com/GABO1491/RickAndMortyApp/main/public/screenshots/vista-principal.png)
+![Vista principal](https://raw.githubusercontent.com/GABO1491/RickAndMortyApp/public/screenshots/vista-principal.png)
 ![Vista principal](https://raw.githubusercontent.com/GABO1491/RickAndMortyApp/main/public/screenshots/vista-principal_1.png)
 
 ### Detalle del personaje
